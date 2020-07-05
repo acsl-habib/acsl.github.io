@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<presentation availableOffline="1" guid="B31B6B73-46A7-43FE-B5AE-80A8FAD7A95F" version="0">
+<presentation availableOffline="1" guid="E4407374-090A-4239-A0C6-BDA40C8FA4D2" version="0">
 	<info>
 		<title>ADO.NET Quiz #02</title>
 		<description/>
 	</info>
-	<files index="id14" thumbnail="id10" totalSize="1859690">
+	<files index="id14" thumbnail="id10" totalSize="1859996">
 		<file id="id0">data/apple-touch-icon.png</file>
 		<file id="id1">data/browsersupport.js</file>
 		<file id="id2">data/favicon.ico</file>
